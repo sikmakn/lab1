@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Учёба\\Проектирование ИС\\Лаба1\\Файлы\\PrimeService\\PrimeService.csproj",
+      "projectName": "PrimeService",
+      "projectPath": "C:\\Учёба\\Проектирование ИС\\Лаба1\\Файлы\\PrimeService\\PrimeService.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Учёба\\Проектирование ИС\\Лаба1\\Файлы\\PrimeService\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netstandard2.0": {}
+    }
+  }
+}
