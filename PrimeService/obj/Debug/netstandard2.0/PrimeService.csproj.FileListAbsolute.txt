@@ -1,0 +1,9 @@
+C:\Учёба\Проектирование ИС\Лаба1\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+C:\Учёба\Проектирование ИС\Лаба1\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+C:\Учёба\Проектирование ИС\Лаба1\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+C:\Учёба\Проектирование ИС\Лаба1\PrimeService\obj\Debug\netstandard2.0\PrimeService.csprojAssemblyReference.cache
+C:\Учёба\Проектирование ИС\Лаба1\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Учёба\Проектирование ИС\Лаба1\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+C:\Учёба\Проектирование ИС\Лаба1\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+C:\Учёба\Проектирование ИС\Лаба1\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+C:\Учёба\Проектирование ИС\Лаба1\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb

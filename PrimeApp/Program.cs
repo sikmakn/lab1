@@ -14,7 +14,7 @@ namespace PrimeApp
 
             Console.WriteLine($"PrimeName: {prim}");
 
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
     }
 }

@@ -1,0 +1,14 @@
+C:\Учёба\Проектирование ИС\Лаба1\PrimeApp\bin\Debug\netcoreapp2.1\PrimeApp.deps.json
+C:\Учёба\Проектирование ИС\Лаба1\PrimeApp\bin\Debug\netcoreapp2.1\PrimeApp.runtimeconfig.json
+C:\Учёба\Проектирование ИС\Лаба1\PrimeApp\bin\Debug\netcoreapp2.1\PrimeApp.runtimeconfig.dev.json
+C:\Учёба\Проектирование ИС\Лаба1\PrimeApp\bin\Debug\netcoreapp2.1\PrimeApp.dll
+C:\Учёба\Проектирование ИС\Лаба1\PrimeApp\bin\Debug\netcoreapp2.1\PrimeApp.pdb
+C:\Учёба\Проектирование ИС\Лаба1\PrimeApp\bin\Debug\netcoreapp2.1\PrimeService.dll
+C:\Учёба\Проектирование ИС\Лаба1\PrimeApp\bin\Debug\netcoreapp2.1\PrimeService.pdb
+C:\Учёба\Проектирование ИС\Лаба1\PrimeApp\obj\Debug\netcoreapp2.1\PrimeApp.csprojAssemblyReference.cache
+C:\Учёба\Проектирование ИС\Лаба1\PrimeApp\obj\Debug\netcoreapp2.1\PrimeApp.csproj.CoreCompileInputs.cache
+C:\Учёба\Проектирование ИС\Лаба1\PrimeApp\obj\Debug\netcoreapp2.1\PrimeApp.AssemblyInfoInputs.cache
+C:\Учёба\Проектирование ИС\Лаба1\PrimeApp\obj\Debug\netcoreapp2.1\PrimeApp.AssemblyInfo.cs
+C:\Учёба\Проектирование ИС\Лаба1\PrimeApp\obj\Debug\netcoreapp2.1\PrimeApp.csproj.CopyComplete
+C:\Учёба\Проектирование ИС\Лаба1\PrimeApp\obj\Debug\netcoreapp2.1\PrimeApp.dll
+C:\Учёба\Проектирование ИС\Лаба1\PrimeApp\obj\Debug\netcoreapp2.1\PrimeApp.pdb
