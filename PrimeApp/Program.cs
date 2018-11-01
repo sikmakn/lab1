@@ -13,8 +13,6 @@ namespace PrimeApp
             var prim = srv.PrimeName("819");
 
             Console.WriteLine($"PrimeName: {prim}");
-
-            Console.ReadLine(); 
         }
     }
 }
