@@ -10,7 +10,7 @@ namespace PrimeApp
 
             var srv = new Prime.Services.PrimeService();
 
-            var prim = srv.PrimeName("819");
+            var prim = srv.PrimeName("819 new");
 
             Console.WriteLine($"PrimeName: {prim}");
         }
